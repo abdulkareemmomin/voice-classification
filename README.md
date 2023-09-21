@@ -25,7 +25,7 @@ python3 run_wav2vec_clf.py \
 
 
 
-## code for voice classification based on ML.
+## code for voice classification based on ML (PREDICTIIONS).
 
 import torch
 import torch.nn as nn
